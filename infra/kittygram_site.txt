@@ -1,5 +1,5 @@
-IP: 84.252.136.83
-name_taski: https://testpracticum.hopto.org/
-name_kittygram: https://kittygramtest.hopto.org/
-login: admin
-password: admin
+IP: 84.252.136.83;
+name_taski: https://testpracticum.hopto.org/;
+name_kittygram: https://kittygramtest.hopto.org/;
+login: admin;
+password: admin;
