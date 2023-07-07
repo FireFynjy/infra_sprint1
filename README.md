@@ -59,15 +59,11 @@ pip install -r requirements.txt
 python3 manage.py migrate
 ```
 
-Установить зависимости для frontend-приложения:
+Установить зависимости для frontend-приложения и запустить его:
 
 ```
 npm i
-...
 
-Запустить frontend проекта:
-
-...
 npm run start
 ```
 
